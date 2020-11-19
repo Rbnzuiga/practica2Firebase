@@ -1,9 +1,10 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
 }
 
@@ -14,8 +15,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color:#143d50;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -27,6 +28,37 @@
 .App-link {
   color: #61dafb;
 }
+.List{
+text-align: center;
+display:  inline-block;
+flex-flow: row-reverse ;
+justify-content: space-between;
+  
+  padding: 0;
+  margin: 0;
+  list-style: none;
+ 
+
+
+}
+
+.form{
+  text-align: left;
+  flex-flow: row ;
+  justify-content: space-around;
+  display:  inline-block;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    
+  
+  }
+  .containers {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+
 
 @keyframes App-logo-spin {
   from {
