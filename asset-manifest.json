@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/practica2Firebase/static/css/main.4a9431d6.chunk.css",
+    "main.js": "/practica2Firebase/static/js/main.891b5c7b.chunk.js",
+    "main.js.map": "/practica2Firebase/static/js/main.891b5c7b.chunk.js.map",
+    "runtime-main.js": "/practica2Firebase/static/js/runtime-main.a5a8111f.js",
+    "runtime-main.js.map": "/practica2Firebase/static/js/runtime-main.a5a8111f.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/practica2Firebase/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.604a0b76.chunk.js": "/practica2Firebase/static/js/2.604a0b76.chunk.js",
+    "static/js/2.604a0b76.chunk.js.map": "/practica2Firebase/static/js/2.604a0b76.chunk.js.map",
+    "static/js/3.c577203d.chunk.js": "/practica2Firebase/static/js/3.c577203d.chunk.js",
+    "static/js/3.c577203d.chunk.js.map": "/practica2Firebase/static/js/3.c577203d.chunk.js.map",
+    "index.html": "/practica2Firebase/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/practica2Firebase/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.4a9431d6.chunk.css.map": "/practica2Firebase/static/css/main.4a9431d6.chunk.css.map",
+    "static/js/2.604a0b76.chunk.js.LICENSE.txt": "/practica2Firebase/static/js/2.604a0b76.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/practica2Firebase/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5a8111f.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.604a0b76.chunk.js",
+    "static/css/main.4a9431d6.chunk.css",
+    "static/js/main.891b5c7b.chunk.js"
+  ]
+}
